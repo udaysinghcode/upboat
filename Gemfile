@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0.rc3'
 gem 'devise'
 gem 'bootstrap-sass'
+gem 'acts_as_votable'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
